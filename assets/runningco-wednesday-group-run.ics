@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RunningCo Revamp//Wednesday Group Run//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:runningco-wednesday-group-run@runningco-revamp
+DTSTAMP:20260515T210000Z
+DTSTART;TZID=America/New_York:20260520T183000
+DTEND;TZID=America/New_York:20260520T200000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:RunningCo. Wednesday Night Group Run
+LOCATION:South Jersey RunningCo. Haddonfield\, 121 Kings Highway E\, Haddonfield\, NJ 08033
+DESCRIPTION:Meet at RunningCo. Haddonfield for the Wednesday night group run. Choose the 6.5-mile loop or the 3-mile option. All paces and faces welcome.
+END:VEVENT
+END:VCALENDAR
